@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umar Khan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 <img align="right" width="400px" alt="Coding" src="
-https://miro.medium.com/v2/resize:fit:679/0*FGD6BUzzZs1VJLuY.gif" 
+https://miro.medium.com/v2/resize:fit:679/0*FGD6BUzzZs1VJLuY.gif"  >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmumaxkhan&label=Profile%20views&color=0e75b6&style=flat" alt="hmumaxkhan" /> </p>
 
@@ -38,3 +38,4 @@ https://miro.medium.com/v2/resize:fit:679/0*FGD6BUzzZs1VJLuY.gif"
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmumaxkhan&show_icons=true&locale=en" alt="hmumaxkhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmumaxkhan&" alt="hmumaxkhan" /></p>
+
